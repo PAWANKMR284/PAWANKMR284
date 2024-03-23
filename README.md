@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PAWANKMR284
 - 👀 I’m interested in Softwere engineering
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack.....
 - 💞️ I’m looking to collaborate on Web applications.
 - 📫 How to reach me ...www.linkedin.com/in/pawan-kumar284, pwnkumar284@gmail.com
 - 😄 Pronouns: He/Him
