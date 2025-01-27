@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 ## 🚀 About Me
 - 💻 **Current Role:** Software Engineer at [Leadingdots Solutions Pvt. Ltd.](https://www.leadingdots.com)
-- 🎓 **Education:** B.Tech from RD Engineering College, Ghaziabad, India
+- 🎓 **Education:** B.Tech from RD Engineering College, Ghaziabad, India.
 - 🧠 **Skills:**
 
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
